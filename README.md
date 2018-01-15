@@ -9,3 +9,4 @@ git remote
   - git remote show
   - git remote rename
   - git remote rm
+  - git fetch <remote>
